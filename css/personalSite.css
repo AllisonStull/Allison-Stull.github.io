@@ -1,0 +1,18 @@
+body {
+    background-image: url("../img/whitebrick.jpeg");
+    background-size: cover;
+}
+
+.navbar {
+    background-color: black;
+    position: fixed;
+
+
+}
+
+.nav-link {
+  color: white;
+}
+.navbar-brand {
+    color: white;
+}
